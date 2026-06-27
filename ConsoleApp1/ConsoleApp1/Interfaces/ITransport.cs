@@ -1,5 +1,6 @@
 namespace TransportChallenge;
 
-public interface ITransport
+public interface ISailable
 {
+
 }
